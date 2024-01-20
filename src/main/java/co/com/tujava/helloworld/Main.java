@@ -1,4 +1,4 @@
-package org.example;
+package co.com.tujava.helloworld;
 
 public class Main {
     public static void main(String[] args) {
