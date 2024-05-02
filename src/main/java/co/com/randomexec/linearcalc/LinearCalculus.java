@@ -1,4 +1,4 @@
-package co.com.tujava.linearcalc;
+package co.com.randomexec.linearcalc;
 
 public class LinearCalculus {
 
