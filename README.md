@@ -1,1 +1,1 @@
-# tu-java
+# tu-java (TRAINING UNIT JAVA)
