@@ -1,0 +1,20 @@
+.gradle 
+ 
+.idea 
+*.iws 
+*.iml 
+*.ipr 
+*.class 
+ 
+build/ 
+bin/ 
+/**/bin/**/ 
+/**/out/**/ 
+!**/src/main/**/build/ 
+!**/src/test/**/build/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
